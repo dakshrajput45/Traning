@@ -6,7 +6,7 @@ void main() {
   runApp(const MyApp());
 }
 
-// Comments hata diye
+// Comments hata diye ke change bhi kar diya
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
