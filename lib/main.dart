@@ -6,7 +6,9 @@ void main() {
   runApp(const MyApp());
 }
 
-// Experiment Chal raha hai - Sushant 
+// Experiment Chal raha hai - Sushant
+
+// Comment added by deepanshu
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -29,7 +31,6 @@ class TryHome extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.black,
