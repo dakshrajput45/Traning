@@ -14,7 +14,7 @@ class GridScreen extends StatelessWidget {
       padding: const EdgeInsets.only(top: 60, left: 20, right: 20, bottom: 50),
       gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
         crossAxisCount: 2,
-        crossAxisSpacing: 20,
+        crossAxisSpacing: 30,
         mainAxisSpacing: 50,
         childAspectRatio: 0.50,
       ),
