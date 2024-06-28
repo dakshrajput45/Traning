@@ -5,9 +5,8 @@ import 'package:training/router.dart';
 void main() {
   runApp(const MyApp());
 }
-// This is main file comment
 
-// Experiment Chal raha hai - Sushant 
+// Comments hata diye
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
